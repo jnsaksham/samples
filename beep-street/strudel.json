@@ -1,0 +1,4 @@
+{
+    "_base": "https://raw.githubusercontent.com/jnsaksham/samples/main/beep-street/",
+    "bs": ["beep-street-1.wav", "beep-street-2.wav","beep-street-3.wav","beep-street-4.wav"]
+  }
